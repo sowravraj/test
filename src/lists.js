@@ -147,7 +147,7 @@ const List = () => {
         <>
             <div className="p-3 bg-success text-light d-flex justify-content-center gap-5">
                 <h1 className="pr-5">Lists of Products - Vendor side</h1>
-                <button className='btn btn-light '><a href="https://pulsepick.onrender.com/" className="text-decoration-none">Customer View</a></button>
+                <button className='btn btn-light '><a href="https://sowravraj.github.io/final/" className="text-decoration-none">Customer View</a></button>
             </div>
             <div className="row">
                 <h3>Add Product</h3>
